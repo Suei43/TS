@@ -1,0 +1,2 @@
+"use strict";
+// FULL TYPESCRIPT PLAYGROUND
